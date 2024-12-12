@@ -1,0 +1,29 @@
+{
+  "name": "quill-formats-video",
+  "version": "1.0.0",
+  "description": "Native VIDEO tags for Quill, replace the default iframe video format",
+  "main": "video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudoo/quill-formats-video.git"
+  },
+  "keywords": [
+    "quill",
+    "quill2",
+    "video",
+    "replace",
+    "iframe"
+  ],
+  "files": [
+    "/video.js"
+  ],
+  "author": "mudoo <mudoo@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudoo/quill-formats-video/issues"
+  },
+  "homepage": "https://github.com/mudoo/quill-formats-video#readme"
+}
