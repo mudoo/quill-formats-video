@@ -1,6 +1,6 @@
 {
   "name": "quill-formats-video",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Native VIDEO tags for Quill, replace the default iframe video format",
   "main": "video.js",
   "scripts": {

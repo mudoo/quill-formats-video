@@ -1,5 +1,5 @@
 import Quill from 'quill'
-const EmbedBlot = Quill.import('blots/embed')
+const EmbedBlot = Quill.import('blots/block/embed')
 
 const BOOLEAN_ATTRS = ['muted', 'autoplay', 'playsinline', 'webkit-playsinline', 'loop']
 
